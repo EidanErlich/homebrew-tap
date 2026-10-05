@@ -1,6 +1,6 @@
 cask "mooring" do
-  version "0.1.0"
-  sha256 "02dbebbba9fa8a38222beafbc837c57c8b35646a9905152354fcb74969b1c0da"
+  version "0.1.1"
+  sha256 "0a903e04b620d124fef6175309ca507430f16c5d1311b193d1149b1577e6cbfd"
 
   url "https://github.com/EidanErlich/mooring/releases/download/v#{version}/Mooring-#{version}.zip"
   name "Mooring"
